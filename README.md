@@ -9,6 +9,9 @@
 
 ---
 
+
+
+
 ## 📖 Sobre o projeto
 Este é um projeto básico em **Flask** que gera uma página simples de **"Hello World"**,  
 mas vem acompanhado de várias dependências no `requirements.txt` para treinar:  
